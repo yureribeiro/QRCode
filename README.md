@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 `npm i create-qr-code`(criar/gerar QRCODE)
-`nom i qr-code` (usaremos para pegar o link gerado pelo QRcode e baixar em arquivo png) 
+`npm i qr-code` (usaremos para pegar o link gerado pelo QRcode e baixar em arquivo png) 
 
 ## Available Scripts
 
